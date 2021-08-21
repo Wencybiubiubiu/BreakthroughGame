@@ -1,5 +1,5 @@
 # AI-of-breakthrough
-# zhangwenxian1997@163.com
+
 Logistic part of breakthrough game AI, implemented by minimax algorithm and C++
 
 file:
